@@ -1,0 +1,39 @@
+C:\Users\AnneMariel\Downloads\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\bin\Debug\PE_MonteroAMB_Notepad.exe.config
+C:\Users\AnneMariel\Downloads\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\bin\Debug\PE_MonteroAMB_Notepad.exe
+C:\Users\AnneMariel\Downloads\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\bin\Debug\PE_MonteroAMB_Notepad.pdb
+C:\Users\AnneMariel\Downloads\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\obj\Debug\PE_MonteroAMB_Notepad.csprojResolveAssemblyReference.cache
+C:\Users\AnneMariel\Downloads\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\obj\Debug\PE_MonteroAMB_Notepad.Notepad.resources
+C:\Users\AnneMariel\Downloads\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\obj\Debug\PE_MonteroAMB_Notepad.Properties.Resources.resources
+C:\Users\AnneMariel\Downloads\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\obj\Debug\PE_MonteroAMB_Notepad.csproj.GenerateResource.Cache
+C:\Users\AnneMariel\Downloads\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\obj\Debug\PE_MonteroAMB_Notepad.exe
+C:\Users\AnneMariel\Downloads\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\obj\Debug\PE_MonteroAMB_Notepad.pdb
+C:\Users\AnneMariel\Downloads\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\obj\Debug\PE_MonteroAMB_Notepad.GoTo.resources
+C:\Users\AnneMariel\Downloads\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\obj\Debug\PE_MonteroAMB_Notepad.Replace.resources
+C:\Users\AnneMariel\Downloads\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\obj\Debug\PE_MonteroAMB_Notepad.Find.resources
+C:\Users\AnneMariel\Downloads\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\obj\Debug\PE_MonteroAMB_Notepad.AboutUs.resources
+E:\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\bin\Debug\PE_MonteroAMB_Notepad.exe.config
+E:\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\obj\Debug\PE_MonteroAMB_Notepad.exe
+E:\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\obj\Debug\PE_MonteroAMB_Notepad.pdb
+E:\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\bin\Debug\PE_MonteroAMB_Notepad.exe
+E:\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\bin\Debug\PE_MonteroAMB_Notepad.pdb
+E:\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\obj\Debug\PE_MonteroAMB_Notepad.csprojResolveAssemblyReference.cache
+E:\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\obj\Debug\PE_MonteroAMB_Notepad.AboutUs.resources
+E:\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\obj\Debug\PE_MonteroAMB_Notepad.Find.resources
+E:\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\obj\Debug\PE_MonteroAMB_Notepad.GoTo.resources
+E:\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\obj\Debug\PE_MonteroAMB_Notepad.Notepad.resources
+E:\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\obj\Debug\PE_MonteroAMB_Notepad.Properties.Resources.resources
+E:\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\obj\Debug\PE_MonteroAMB_Notepad.Replace.resources
+E:\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\obj\Debug\PE_MonteroAMB_Notepad.csproj.GenerateResource.Cache
+D:\School Stuff\Programming\IT112P\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\bin\Debug\PE_MonteroAMB_Notepad.exe.config
+D:\School Stuff\Programming\IT112P\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\obj\Debug\PE_MonteroAMB_Notepad.exe
+D:\School Stuff\Programming\IT112P\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\obj\Debug\PE_MonteroAMB_Notepad.pdb
+D:\School Stuff\Programming\IT112P\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\bin\Debug\PE_MonteroAMB_Notepad.exe
+D:\School Stuff\Programming\IT112P\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\bin\Debug\PE_MonteroAMB_Notepad.pdb
+D:\School Stuff\Programming\IT112P\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\obj\Debug\PE_MonteroAMB_Notepad.csprojResolveAssemblyReference.cache
+D:\School Stuff\Programming\IT112P\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\obj\Debug\PE_MonteroAMB_Notepad.AboutUs.resources
+D:\School Stuff\Programming\IT112P\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\obj\Debug\PE_MonteroAMB_Notepad.Find.resources
+D:\School Stuff\Programming\IT112P\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\obj\Debug\PE_MonteroAMB_Notepad.GoTo.resources
+D:\School Stuff\Programming\IT112P\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\obj\Debug\PE_MonteroAMB_Notepad.Notepad.resources
+D:\School Stuff\Programming\IT112P\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\obj\Debug\PE_MonteroAMB_Notepad.Properties.Resources.resources
+D:\School Stuff\Programming\IT112P\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\obj\Debug\PE_MonteroAMB_Notepad.Replace.resources
+D:\School Stuff\Programming\IT112P\PE_MonteroAMB_Notepad\PE_MonteroAMB_Notepad\obj\Debug\PE_MonteroAMB_Notepad.csproj.GenerateResource.Cache
